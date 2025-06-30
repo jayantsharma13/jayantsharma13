@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **Machine Learning**
 - 🧠 Solving problems daily to improve in **DSA**
 - 💬 Always open to collaboration & learning
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me: [JayantSharma](mailto:jayant01jan@gmail.com)
 
 ---
 
